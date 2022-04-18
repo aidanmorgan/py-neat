@@ -1,2 +1,2 @@
 # py-neat
-An implementation of the NEAT algorithm using Python
+A WIP implementation of the NEAT algorithm using Python, DO NOT USE.
